@@ -1,4 +1,4 @@
-package turing.edu.az.config;
+package az.edu.turing.config;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.context.annotation.Bean;

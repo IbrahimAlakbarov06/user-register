@@ -1,4 +1,6 @@
-package turing.edu.az.entity;
+package az.edu.turing.entity;
 
-public class Role {
+public enum Role {
+    USER,
+    ADMIN
 }

@@ -1,4 +1,4 @@
-package turing.edu.az;
+package az.edu.turing;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

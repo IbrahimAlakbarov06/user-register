@@ -1,4 +1,3 @@
-package turing.edu.az.dto;
+package az.edu.turing.dto;
 
-public class AuthResponse {
-}
+public record AuthResponse(String accessToken, String refreshToken) {}
